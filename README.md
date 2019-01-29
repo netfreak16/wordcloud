@@ -17,7 +17,7 @@ Created a Word Cloud in which size of each word depends on the frequency of word
 
 ![image](https://github.com/netfreak16/wordcloud/blob/master/wordcloud.png)
 
-What can we conclude from the number of tweets made on the three different days?
+What can we conclude from the number of tweets made on the three different days? <br />
 Result- On analysing the plot of frequency vs number of tweets, we can observe that there is a drastic increase in the no. of tweets on day 2. So, we can conclude by this that there must have been an event or a holiday on that particular day because of which there was an increased flow of tourists with more of them tweeting about Rajasthan Tourism. So, this on a larger scale can be helpful for the state government for the purpose of resource management for that particular time period and prepare well in advance based on previous year data.
 
 ![image](https://github.com/netfreak16/wordcloud/blob/master/tweets%20with%20time%20graph.png)
