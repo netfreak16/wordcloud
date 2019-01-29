@@ -7,7 +7,6 @@ Created a Word Cloud in which size of each word depends on the frequency of word
 
  Collected twitter data of \#RajasthanTravels and used TextBlob and other Python Libraries to study the Travelers Experience.
 
-![image](https://github.com/netfreak16/wordcloud/blob/master/wordcloud.png)
 
 # Results and Analysis
  What can you say about the frequencies of neutral, positive and negative words after the analysis?
